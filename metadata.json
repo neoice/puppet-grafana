@@ -15,7 +15,7 @@
   ],
   "dependencies": [
     {
-      "name": "gini/archive",
+      "name": "camptocamp/archive",
       "version_requirement": ">= 0.2.0"
     },
     {
